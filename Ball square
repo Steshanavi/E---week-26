@@ -3,7 +3,7 @@ import math
 def calculate_planet_square(radius):
     # Calculate the surface area of a sphere representing a planet
     surface_area = 4 * math.pi * radius ** 2
-    return surface_area//
+    return surface_area
 
 # Example usage:
 # Assuming the radius of the planet is 6,371 kilometers (Earth's average radius)
