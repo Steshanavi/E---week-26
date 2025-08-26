@@ -6,7 +6,7 @@ def calculate_planet_square(radius):
     return surface_area
 
 # Example usage:
-# Assuming the radius of the planet is 6,371 kilometers (Earth's average radius)
+# Assuming the radius of the planet is 6,371 kilometers (Earth's average radius)//
 radius_of_earth = 6,371  # in kilometers
 surface_area_of_earth = calculate_planet_square(radius_of_earth)
 print(f"The surface area of the planet is {surface_area_of_earth:.2f} square kilometers.")
